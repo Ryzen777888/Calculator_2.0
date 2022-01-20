@@ -1,0 +1,31 @@
+.container {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+    width: 160px;
+    text-align: center;
+    border: 10px solid #000000;
+    background: #00201f;
+    border-radius: 5px;
+}
+
+
+.output{
+    margin-bottom: 1rem;
+
+}
+
+input{
+    text-align: right;
+    background: black;
+    color: azure;
+}
+
+button{
+    margin: 1px;
+    width: 2rem ;
+    background: #000000;
+    color: azure;
+}
